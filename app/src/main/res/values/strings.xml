@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GestiuneRestaurant</string>
+    <string name="newOrderButton">Comenzi noi</string>
+    <string name="oldOrderButton">Comenzi in desfasurare</string>
+    <string name="denyButton">Refuza</string>
+    <string name="accButton">Accepta comanda</string>
+</resources>

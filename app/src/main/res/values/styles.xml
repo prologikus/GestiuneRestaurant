@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:fontFamily">@font/work_sans</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:animateLayoutChanges">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+</resources>

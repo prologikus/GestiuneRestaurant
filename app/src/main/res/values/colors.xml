@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43a421</color>
+    <color name="colorPrimaryDark">#558b2f</color>
+    <color name="colorAccent">#43a421</color>
+    <color name="clearWhite">#ffffff</color>
+    <color name="denyButton">#e6643c</color>
+    <color name="accButton">#43a421</color>
+    <color name="gray">#e3e3e3</color>
+    <color name="clearBlack">#000000</color>
+    <color name="almostBlack">#202224</color>
+    <color name="darkerGray">#32373d</color>
+    <color name="AppBarBg">#272b2f</color>
+    <color name="AppBarButton">#32373d</color>
+</resources>
